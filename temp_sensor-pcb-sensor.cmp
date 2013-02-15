@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2011-nov-30)-testing date = Tue 20 Nov 2012 02:20:41 PM EST
+
+BeginCmp
+TimeStamp = /50ABCD9C;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50ABCDA9;
+Reference = C2;
+ValeurCmp = 0.22uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50ABD5CE;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = bornier4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50ABD5F9;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = bornier4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50ABCE16;
+Reference = U1;
+ValeurCmp = HIH6130-I2C;
+IdModule  = SO8E;
+EndCmp
+
+EndListe
