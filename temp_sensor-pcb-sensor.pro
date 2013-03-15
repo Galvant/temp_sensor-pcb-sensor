@@ -1,6 +1,6 @@
-update=Tue 20 Nov 2012 01:38:04 PM EST
+update=Thu 14 Mar 2013 10:24:03 PM EDT
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -36,8 +36,6 @@ LibName8=led
 LibName9=dip_sockets
 LibName10=pga_sockets
 LibName11=valves
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -81,3 +79,5 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=HIH6130-I2C
+[general]
+version=1
